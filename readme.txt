@@ -1,8 +1,8 @@
-Thank you for using our template!
+Website For Hackathon Event for Tula's IEEE Student Branch.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Authored by: Sahil K Gupta
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Liscence: Free GNU Liscence
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Contact: sahilkguptaprivate@gmail.com
+Enjoy the template!
